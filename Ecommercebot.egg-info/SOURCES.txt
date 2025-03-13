@@ -1,0 +1,10 @@
+setup.py
+Ecommercebot.egg-info/PKG-INFO
+Ecommercebot.egg-info/SOURCES.txt
+Ecommercebot.egg-info/dependency_links.txt
+Ecommercebot.egg-info/requires.txt
+Ecommercebot.egg-info/top_level.txt
+ecommercebot/__init__.py
+ecommercebot/data_converter.py
+ecommercebot/ingest.py
+ecommercebot/retrieval_generation.py
